@@ -43,7 +43,7 @@ def sim_distance(list,person1,person2):
     #print si
 
     sum_of_squares=sum([pow(list[person1][item]-list[person2][item],2)
-                      for item in list[person1] if item in list[person2]])
+                      for item in si])
 
     #returning the calculated value by inverting
 

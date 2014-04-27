@@ -30,3 +30,4 @@ for item in critics:
     print ("Which is equal to:",max)
     print ("\n\n")
 
+    print (R)
